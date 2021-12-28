@@ -14,14 +14,18 @@ To write a program to find the exponentiation of a number.
 ## Program:
 ```
 /*
-Program to find the exponentiation of a number.
-Developed by: 
-RegisterNumber: 
+ 
+#Program to to find the Exponentiation of a number.
+#Developed by: Vismaya
+#RegisterNumber: 2100284
+a=int(input())
+b=2
+print('Exponentiation of a given number:',pow(a,b))
 */
 ```
 
 ## Output:
-![exponentiation of a number](expo.png)
+![exponentiation of a number](exponentiation.png)
 
 
 ## Result:
